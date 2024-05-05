@@ -1,6 +1,6 @@
 # The Best Chatib Alternative: Everyone.chat
 
-Are you tired of the limitations and lack of features on Chatib? Look no further than [Everyone.chat](https://everyone.chat), the ultimate alternative for online chat enthusiasts.
+Are you tired of the limitations and lack of features on Chatib, or even [Chatiw](https://github.com/Chatiw-Alternative)? Look no further than [Everyone.chat](https://everyone.chat), the ultimate alternative for online chat enthusiasts.
 
 ## Why Choose Everyone.chat?
 
